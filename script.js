@@ -1,6 +1,6 @@
 const element = document.getElementById('container')
 
-const n = 365;
+const n = 720;
 
 for(let i =0;i<n;i++){
     const box = document.createElement('div');
