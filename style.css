@@ -1,0 +1,31 @@
+body{
+    background-color: #111111;
+    max-width: 1400px;
+}
+
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 2px 2px;
+    padding: 2px 2px;
+}
+.head1{
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.box{
+    background-color: #424141;
+    height: 10px;
+    width: 10px;
+    border: 0.5px solid rgb(0, 0, 0);
+    border-radius: 1px;
+    display: inline-block;
+    padding: 3px 3px;
+    margin: 1px;
+    
+}
+
+
+/* #56d364 */
